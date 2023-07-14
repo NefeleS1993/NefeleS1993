@@ -12,7 +12,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm Jose Manuel</h1>
-  <h3>Full Stack Developer - Ing. Informatic Sciences</h3>
+  <h3>⚡⚡Full Stack Developer - Ing. Informatic Sciences⚡⚡</h3>
 </div>
 
 <!-- Other Stats -->
@@ -106,71 +106,13 @@
         <br/>
         Cypress
       </td>
-      <!-- Gulp -->
-      <td width="96">
-        <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
-        </a>
-        <br/>
-        Gulp
-      </td>
-      <!-- Arduino -->
-      <td width="96">
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-        </a>
-        <br/>
-        Arduino
-      </td>
-      <!-- Bash -->
-      <td width="96">
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-        </a>
-        <br/>
-        Bash
-      </td>
-      <!-- Electron -->
-      <td>
-        <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-        </a>
-        <br/>
-        Electron
-      </td>
-      <!-- Firebase -->
-      <td width="96">
-         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-        </a>
-        <br/>
-        Firebase
-      </td>
-    </tr>
-    <tr>
-      <!-- Jest -->
-      <td width="96">
-        <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-        </a>
-        <br/>
-        Jest
-      </td>
-      <!-- PHP -->
+       <!-- PHP -->
       <td width="96">
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
         </a>
         <br/>
         PHP
-      </td>
-      <!-- Figma -->
-      <td width="96">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-        </a>
-        <br/>
-        Figma
       </td>
       <!-- Git -->
       <td width="96">
@@ -188,48 +130,6 @@
         <br/>
         Bootstrap
       </td>
-      <!-- Invision -->
-      <td width="96">
-        <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/>
-        </a>
-        <br/>
-        Invision
-      </td>
-      <!-- Nuxt -->
-      <td width="96">
-        <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
-        </a>
-        <br/>
-        Nuxt
-      </td>
-      <!-- Heroku -->
-      <td width="96">
-        <a href="https://heroku.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-        </a>
-        <br/>
-        Heroku
-      </td>
-      <!-- Illustrator -->
-      <td width="96">
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-        </a>
-        <br/>
-        Illustrator
-      </td>
-    </tr>
-    <tr>
-      <!-- Webpack -->
-      <td width="96">
-        <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-        </a>
-        <br/>
-        Webpack
-      </td>
       <!-- SCSS -->
       <td width="96">
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
@@ -245,14 +145,6 @@
         </a>
         <br/>
         MariaDB
-      </td>
-      <!-- Linux -->
-      <td width="96">
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-        </a>
-        <br/>
-        Linux
       </td>
       <!-- MySQL -->
       <td width="96">
@@ -270,48 +162,6 @@
         <br/>
         PostgreSQL
       </td>
-      <!-- Photoshop -->
-      <td width="96">
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-        </a>
-        <br/>
-        Photoshop
-      </td>
-      <!-- Pug -->
-      <td width="96">
-        <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-        </a>
-        <br/>
-        Pug
-      </td>
-      <!-- Sketch -->
-      <td width="96">
-        <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>
-        </a>
-        <br/>
-        Sketch
-      </td>
-    </tr>
-    <tr>
-      <!-- Redux -->
-      <td width="96">
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-        </a>
-        <br/>
-        Redux
-      </td>
-      <!-- Express -->
-      <td width="96">
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-        </a>
-        <br/>
-        Express
-      </td>
       <!-- Postman -->
       <td width="96">
         <a href="https://postman.com" target="_blank" rel="noreferrer">
@@ -319,46 +169,6 @@
         </a>
         <br/>
         Postman
-      </td>
-      <!-- SQLite -->
-      <td width="96">
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-        </a>
-        <br/>
-        SQLite
-      </td>
-      <!-- AWS -->
-      <td width="96">
-        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-        </a>
-        <br/>
-        AWS
-      </td>
-      <!-- IFTTT -->
-      <td width="96">
-        <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
-        </a>
-        <br/>
-        IFTTT
-      </td>
-      <!-- Kubernetes -->
-      <td width="96">
-        <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-        </a>
-        <br/>
-        Kubernetes
-      </td>
-      <!-- MongoDB -->
-      <td width="96">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-        </a>
-        <br/>
-        MongoDB
       </td>
     </tr>
   </tbody>
