@@ -49,22 +49,6 @@
         <br/>
         CSS
       </td>
-      <!-- NextJS -->
-      <td width="96">
-         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-        </a>
-        <br/>
-        NextJS
-      </td>
-      <!-- React -->
-      <td width="96">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-        </a>
-        <br/>
-        React
-      </td>
       <!-- Vue -->
       <td width="96">
         <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
@@ -88,16 +72,6 @@
         </a>
         Docker
       </td>
-      <!-- Babel -->
-      <td>
-        <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-        </a>
-        <br/>
-        Babel
-      </td>
-    </tr>
-    <tr>
       <!-- NodeJS -->
       <td width="96">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -114,7 +88,7 @@
         <br/>
         TypeScript
       </td>
-      <!-- Circle CI -->
+       <!-- Circle CI -->
       <td width="96">
         <a href="https://circleci.com" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
@@ -122,6 +96,8 @@
         <br/>
         CircleCI
       </td>
+    </tr>
+    <tr>
       <!-- Cypress -->
       <td>
         <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
