@@ -1,6 +1,3 @@
-<!--
-**ky13d3nt0n/ky13d3nt0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
 <!-- Profile Views -->
 <div>
   <a align="left" href="https://linkedin.com/in/jose-manuel-blanco-peña-4a9245247" target="_blank">
@@ -182,6 +179,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefeleS1993&layout=compact&theme=nord" alt="Readme Stats" />
 </div>
+
+</br>
 
 &nbsp;
 ---
