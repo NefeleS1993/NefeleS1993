@@ -12,7 +12,7 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm Jose Manuel</h1>
-  <h3>A senior frontend developer from the U.S</h3>
+  <h3>Full Stack Developer - Ing. Informatic Sciences</h3>
 </div>
 
 <!-- Other Stats -->
@@ -402,5 +402,5 @@
 
 <div align="center">
   <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=NefeleS1993&theme=onedark&row=2&rank=SECRET,S,SS,A,B,C" alt="ky13d3nt0n" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NefeleS1993&theme=onedark&row=2&rank=SECRET,S,SS,A,B,C" alt="NefeleS1993" />
 </div>
