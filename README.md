@@ -24,66 +24,83 @@
     <tr>
       <!-- JavaScript -->
       <td width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js" />
+        </a>
+        <br/>
+        JavaScript
+      </td>
+      <!-- TypeScript -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=ts" />
         </a>
         <br/>
         JavaScript
       </td>
       <!-- HTML  -->
       <td width="96">
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html" />
         </a>
         <br/>
         HTML
       </td>
       <!-- CSS -->
       <td width="96">
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=css" />
         </a>
         <br/>
         CSS
       </td>
       <!-- Vue -->
       <td width="96">
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vue" />
         </a>
         <br/>
         Vue
       </td>
       <!-- Angular -->
       <td width="96">
-        <a href="https://angular.io" target="_blank" rel="noreferrer">
-          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=angular" />
         </a>
         <br/>
         Angular
       </td>
-      <!-- Docker -->
-      <td>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-        </a>
-        Docker
-      </td>
-      <!-- NodeJS -->
+      <!-- Bootstrap -->
       <td width="96">
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=bootstrap" />
+        </a>
+        <br/>
+        Bootstrap
+      </td>
+       <!-- NodeJS -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs" />
         </a>
         <br/>
         NodeJS
       </td>
-      <!-- TypeScript -->
+       <!-- PHP -->
       <td width="96">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=php" />
         </a>
         <br/>
-        TypeScript
+        PHP
+      </td>
+      <!-- PHP -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=laravel" />
+        </a>
+        <br/>
+        Laravel
       </td>
        <!-- Circle CI -->
       <td width="96">
@@ -103,13 +120,12 @@
         <br/>
         Cypress
       </td>
-       <!-- PHP -->
-      <td width="96">
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+      <!-- Docker -->
+      <td>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
         </a>
-        <br/>
-        PHP
+        Docker
       </td>
       <!-- Git -->
       <td width="96">
@@ -118,14 +134,6 @@
         </a>
         <br/>
         Git
-      </td>
-      <!-- Bootstrap -->
-      <td>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-        </a>
-        <br/>
-        Bootstrap
       </td>
       <!-- SCSS -->
       <td width="96">
