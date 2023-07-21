@@ -54,6 +54,14 @@
         <br/>
         CSS
       </td>
+      <!-- SCSS -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=sass" />
+        </a>
+        <br/>
+        SCSS
+      </td>
       <!-- Vue -->
       <td width="96">
         <a href="https://skillicons.dev">
@@ -94,7 +102,7 @@
         <br/>
         PHP
       </td>
-      <!-- PHP -->
+      <!-- Laravel -->
       <td width="96">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=laravel" />
@@ -102,46 +110,15 @@
         <br/>
         Laravel
       </td>
-       <!-- Circle CI -->
-      <td width="96">
-        <a href="https://circleci.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-        </a>
-        <br/>
-        CircleCI
-      </td>
     </tr>
     <tr>
-      <!-- Cypress -->
-      <td>
-        <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-        </a>
-        <br/>
-        Cypress
-      </td>
-      <!-- Docker -->
-      <td>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-        </a>
-        Docker
-      </td>
-      <!-- Git -->
+      <!-- MySQL -->
       <td width="96">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mysql" />
         </a>
         <br/>
-        Git
-      </td>
-      <!-- SCSS -->
-      <td width="96">
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-        </a>
-        <br/>
-        SCSS
+        MySQL
       </td>
       <!-- MariaDB -->
       <td width="96">
@@ -151,29 +128,77 @@
         <br/>
         MariaDB
       </td>
-      <!-- MySQL -->
-      <td width="96">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-        </a>
-        <br/>
-        MySQL
-      </td>
       <!-- PostgreSQL -->
       <td width="96">
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres" />
         </a>
         <br/>
         PostgreSQL
       </td>
+      <!-- Docker -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker" />
+        </a>
+        <br/>
+        Docker
+      </td>
+      <!-- Git -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git" />
+        </a>
+        <br/>
+        Git
+      </td>
+      <!-- GitHub -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=github" />
+        </a>
+        <br/>
+        GitHub
+      </td>
       <!-- Postman -->
       <td width="96">
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postman" />
         </a>
         <br/>
         Postman
+      </td>
+      <!-- vscode -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode" />
+        </a>
+        <br/>
+        VS Code
+      </td>
+      <!-- redis -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=redis" />
+        </a>
+        <br/>
+        Redis
+      </td>
+       <!-- Circle CI -->
+      <td width="96">
+        <a href="https://circleci.com" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
+        </a>
+        <br/>
+        CircleCI
+      </td>
+      <!-- Cypress -->
+      <td>
+        <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+        </a>
+        <br/>
+        Cypress
       </td>
     </tr>
   </tbody>
