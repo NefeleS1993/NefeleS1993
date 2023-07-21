@@ -212,13 +212,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefeleS1993&layout=compact&theme=nord" alt="Readme Stats" />
 </div>
+<br>
+<br>
+<br>
 
-</br>
-
-&nbsp;
 ---
-
-<div align="center">
+ ### 🏆GitHub Trophies
+<div align="center" style="display: block;">
   <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=NefeleS1993&theme=onedark&row=2&rank=SECRET,S,SS,A,B,C" alt="NefeleS1993" />
 </div>
