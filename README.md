@@ -1,84 +1,226 @@
-<!-- Banner & Foto -->
-<div align="center">
-  <img src="https://your-cdn.com/your-banner.png" alt="Banner" width="100%" style="border-radius: 8px;"/>
-  <br/><br/>
-  <img src="https://your-cdn.com/your-avatar.png" alt="Foto de Jose Manuel" width="120" height="120" style="border-radius: 50%;"/>
-  <h1 style="margin-top: 0.3em;">Jose Manuel Blanco Peña</h1>
-  <p><em>Full-Stack Developer | Laravel &amp; Nuxt.js | Microservicios &amp; UX</em></p>
+<!-- Profile Views -->
+<div>
+  <a align="left" href="https://linkedin.com/in/jose-manuel-blanco-peña-4a9245247" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="NefeleS1993" />
+  </a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=NefeleS1993&label=Profile%20views&color=0e75b6&style=flat" alt="NefeleS1993" />
 </div>
 
----
+<!-- Header -->
+<div align="center">
+  <h1>Hi 👋, I'm Jose Manuel</h1>
+  <h3>⚡⚡Full Stack Developer - Ing. Informatic Sciences⚡⚡</h3>
+</div>
 
-## 📖 Sobre mí
-- 🏷️ **Rol:** Ingeniero en Ciencias de la Informática  
-- 💼 **Experiencia:** +5 años en desarrollo web full-stack  
-- 🎯 **Especialidad:** APIs con Laravel, SPAs con Nuxt.js, arquitecturas escalables  
-- 🚀 **Intereses:** Rendimiento, accesibilidad, CI/CD, pruebas automatizadas  
+<!-- Other Stats -->
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NefeleS1993&theme=dark" alt="NefeleS1993" />
+</div>
 
----
-
-## 🚀 Proyectos Destacados
+<!-- Language & Tools -->
+### Languages & Tools
 <table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/tu-usuario/proyecto-1" target="_blank">
-        <img src="https://your-cdn.com/proj1-screenshot.png" alt="Proyecto 1" width="100%"/>
-        <h4>Proyecto 1</h4>
-      </a>
-      <p>CMS para blogs con editor Markdown</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel"/>
-        <img src="https://img.shields.io/badge/Vue-35495E?logo=vue&logoColor=white" alt="Vue"/>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/tu-usuario/proyecto-2" target="_blank">
-        <img src="https://your-cdn.com/proj2-screenshot.png" alt="Proyecto 2" width="100%"/>
-        <h4>Proyecto 2</h4>
-      </a>
-      <p>Wrapper móvil con Ionic + Capacitor</p>
-      <p>
-        <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" alt="Ionic"/>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/tu-usuario/proyecto-3" target="_blank">
-        <img src="https://your-cdn.com/proj3-screenshot.png" alt="Proyecto 3" width="100%"/>
-        <h4>Proyecto 3</h4>
-      </a>
-      <p>Microservicio de autenticación con JWT</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js"/>
-      </p>
-    </td>
-  </tr>
+  <tbody align="center">
+    <tr>
+      <!-- JavaScript -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js" />
+        </a>
+        <br/>
+        JavaScript
+      </td>
+      <!-- TypeScript -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=ts" />
+        </a>
+        <br/>
+        JavaScript
+      </td>
+      <!-- HTML  -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html" />
+        </a>
+        <br/>
+        HTML
+      </td>
+      <!-- CSS -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=css" />
+        </a>
+        <br/>
+        CSS
+      </td>
+      <!-- SCSS -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=sass" />
+        </a>
+        <br/>
+        SCSS
+      </td>
+      <!-- Vue -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vue" />
+        </a>
+        <br/>
+        Vue
+      </td>
+      <!-- Angular -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=angular" />
+        </a>
+        <br/>
+        Angular
+      </td>
+      <!-- Bootstrap -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=bootstrap" />
+        </a>
+        <br/>
+        Bootstrap
+      </td>
+       <!-- NodeJS -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs" />
+        </a>
+        <br/>
+        NodeJS
+      </td>
+       <!-- PHP -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=php" />
+        </a>
+        <br/>
+        PHP
+      </td>
+    </tr>
+    <tr>
+      <!-- Laravel -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=laravel" />
+        </a>
+        <br/>
+        Laravel
+      </td>
+      <!-- MySQL -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=mysql" />
+        </a>
+        <br/>
+        MySQL
+      </td>
+      <!-- MariaDB -->
+      <td width="96">
+        <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+        </a>
+        <br/>
+        MariaDB
+      </td>
+      <!-- PostgreSQL -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres" />
+        </a>
+        <br/>
+        PostgreSQL
+      </td>
+      <!-- Docker -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker" />
+        </a>
+        <br/>
+        Docker
+      </td>
+      <!-- Git -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git" />
+        </a>
+        <br/>
+        Git
+      </td>
+      <!-- GitHub -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=github" />
+        </a>
+        <br/>
+        GitHub
+      </td>
+      <!-- Postman -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postman" />
+        </a>
+        <br/>
+        Postman
+      </td>
+      <!-- vscode -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode" />
+        </a>
+        <br/>
+        VS Code
+      </td>
+      <!-- redis -->
+      <td width="96">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=redis" />
+        </a>
+        <br/>
+        Redis
+      </td>
+    </tr>
+    <tr>
+      <!-- Circle CI -->
+      <td width="96">
+        <a href="https://circleci.com" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
+        </a>
+        <br/>
+        CircleCI
+      </td>
+       <!-- Cypress -->
+      <td>
+        <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+        </a>
+        <br/>
+        Cypress
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
+<!-- Stats -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=NefeleS1993&show_icons=true&theme=nord&count_private=true&hide=stars" alt="NefeleS1993 GitHub Stats Card"/>
 
-## 🛠️ Tecnologías & Herramientas
-
+<!-- Languages -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,vue,nuxt,laravel,nodejs,docker,git" alt="Tech Icons" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefeleS1993&layout=compact&theme=nord" alt="Readme Stats" />
 </div>
-
-- **Lenguajes:** JavaScript, TypeScript, PHP, SQL  
-- **Frontend:** Vue.js, Nuxt.js, Angular, Tailwind CSS  
-- **Backend:** Laravel, Node.js, Express  
-- **Bases de datos:** MySQL, PostgreSQL, Redis  
-- **DevOps & Testing:** Docker, GitHub Actions, CircleCI, Cypress  
+<br>
+<br>
+<br>
 
 ---
-
-## 📫 Contacto
-
-| Email                      | LinkedIn                                                                                   | Portfolio                         |
-| -------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------- |
-| jose.manuel@example.com    | [linkedin.com/in/jose-manuel-blanco-peña](https://linkedin.com/in/jose-manuel-blanco-peña) | [tu-portfolio.com](https://tu-portfolio.com) |
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NefeleS1993&style=flat-square" alt="Profile views"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=NefeleS1993&theme=onedark&row=1&column=4" alt="GitHub Trophies"/>
+ ### 🏆GitHub Trophies
+<div align="center" style="display: block;">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NefeleS1993&theme=onedark&row=2&rank=SECRET,S,SS,A,B,C" alt="NefeleS1993" />
 </div>
